@@ -52,8 +52,6 @@ public class AccountControllerTest {
         ResponseEntity<List<Account>> expResult = null;
         ResponseEntity<List<Account>> result = instance.account(userId);
         assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
     }
 
     /**
