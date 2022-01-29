@@ -95,3 +95,5 @@ VALUES
 
 Application configuration :
 
+check application.properties
+
